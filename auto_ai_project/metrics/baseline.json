@@ -1,0 +1,5 @@
+{
+  "metric": "auc",
+  "threshold": 0.70,
+  "direction": "min"
+}
