@@ -1,1 +1,0 @@
-ERROR: spec file missing or invalid
